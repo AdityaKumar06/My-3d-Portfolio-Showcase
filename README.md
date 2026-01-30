@@ -25,13 +25,13 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 ## 📸 Screenshots
 
-| Home / Hero      | About / Skills                     |
+| Hero / Story      | About / Key focus                    |
 |------------------|------------------------------------|
-| <img width="800" alt="Home section - 3D hero with smooth entrance animation" src="https://github.com/user-attachments/assets/YOUR_HOME_IMAGE_ID_HERE" /> | <img width="800" alt="About section - skill showcase with parallax" src="https://github.com/user-attachments/assets/YOUR_ABOUT_IMAGE_ID_HERE" /> |
+| <img width="1920" height="916" alt="Image" src="https://github.com/user-attachments/assets/177af5ae-c275-40aa-a695-9b3394bb8f3d" /> | <img width="1920" height="911" alt="Image" src="https://github.com/user-attachments/assets/5cb3bbcd-a8e0-41e2-869e-b2d2aea94fab" /> |
 
-| Projects / Works | Contact / Footer                   |
+| Philosophy / Works | Interests / Footer                   |
 |------------------|------------------------------------|
-| <img width="800" alt="Projects grid with 3D hover effects" src="https://github.com/user-attachments/assets/YOUR_PROJECTS_IMAGE_ID_HERE" /> | <img width="800" alt="Contact form and social links" src="https://github.com/user-attachments/assets/YOUR_CONTACT_IMAGE_ID_HERE" /> |
+| <img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/2109e095-ef15-45d5-bb4f-1b4c946b5f77" /> | <img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/7c4c5e26-ae92-424c-8563-8e17798d283c" /> |
 
 *(Images are scaled to 800px width for better readability on GitHub — full resolution available in repo or live site)*
 
