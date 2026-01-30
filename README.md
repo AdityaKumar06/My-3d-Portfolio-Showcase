@@ -33,7 +33,7 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 |------------------|------------------------------------|
 | <img width="1920" height="906" alt="Image" src="https://github.com/user-attachments/assets/2109e095-ef15-45d5-bb4f-1b4c946b5f77" /> | <img width="1920" height="903" alt="Image" src="https://github.com/user-attachments/assets/7c4c5e26-ae92-424c-8563-8e17798d283c" /> |
 
-*(Images are scaled to 800px width for better readability on GitHub — full resolution available in repo or live site)*
+
 
 ## 🚀 Live Demo
 
@@ -49,4 +49,5 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 ⭐ Show some love
 If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
+<br>
 Made with ❤️ by Aditya
