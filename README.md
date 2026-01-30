@@ -49,5 +49,11 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 ⭐ Show some love
 If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
+
 <br>
-Made with ❤️ by Aditya
+<br>
+
+Made with ❤️ 
+**Aditya Kumar** ❤️  
+🔗 GitHub: [AdityaKumar06](https://github.com/AdityaKumar06)  
+🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0614/)  
