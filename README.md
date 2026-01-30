@@ -38,7 +38,7 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 ## 🚀 Live Demo
 
 🔗 **[View Live Portfolio →](https://yourusername.github.io/your-repo-name/)**  
-*(replace with your actual GitHub Pages link or Vercel/Netlify URL)*
+
 
 ## 📂 Project Structure
 ├── index.html          # Main entry point
