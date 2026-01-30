@@ -41,11 +41,15 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 
 ## 📂 Project Structure
-├── index.html          # Main entry point
-├── style.css           # All styling + 3D effects
-├── script.js           # GSAP + Locomotive logic
-├── images/             # Assets, textures, screenshots (optional)
-└── README.md
+
+my-project/           # Root folder
+├── index.html         # Main HTML file
+├── style.css          # CSS file in root
+├── script.js          # JavaScript file in root
+├── images/            # Folder for images
+│   └── ...            # Your image files
+└── README.md          # Project description for GitHub
+
 
 ⭐ Show some love
 If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
