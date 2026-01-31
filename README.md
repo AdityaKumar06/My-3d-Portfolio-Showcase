@@ -52,7 +52,7 @@ your-project/
 
 ## 🚀 Live Demo
 
-🔗 **[View Live Portfolio →](https://yourusername.github.io/your-repo-name/)**  
+🔗 **[View Live Portfolio →](https://my-3d-portfolio-showcase.vercel.app/)**  
   
 
 
