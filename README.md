@@ -44,14 +44,16 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 my-project/ Landing Page        
 
-├── index.html
+## 📁 Project Structure
 
-├── style.css     
-├── script.js     
+```text
+your-project/
+├── index.html          # Main landing page
+├── style.css           # All styles
+├── script.js           # JavaScript logic & interactions
 ├── images/
-│   └── male0001.png/ 
+│   └── male0001.png    # Example image / avatar / hero image
 └── README.md
-
 
 <br>
 
