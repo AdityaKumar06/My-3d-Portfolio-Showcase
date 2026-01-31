@@ -45,10 +45,10 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 my-project/ Landing Page        
 
 ├── index.html
-├── style.css
-├── script.js
+├── style.css     
+├── script.js     
 ├── assets/
-│   └── images/
+│   └── images/ 
 └── README.md
 
 
