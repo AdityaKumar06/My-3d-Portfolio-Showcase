@@ -48,8 +48,8 @@ my-project/ Landing Page
 
 ├── style.css     
 ├── script.js     
-├── assets/
-│   └── images/ 
+├── images/
+│   └── male0001.png/ 
 └── README.md
 
 
