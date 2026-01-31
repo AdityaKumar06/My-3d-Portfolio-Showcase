@@ -12,6 +12,21 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 - ⚡ Lightweight — only HTML/CSS/JS + CDNs
 - 🌙 Dark mode / modern aesthetic ready
 
+
+
+
+## 📁 Project Structure
+
+```text
+your-project/
+├── index.html          # Main landing page
+├── style.css           # All styles
+├── script.js           # JavaScript logic & interactions
+├── images/
+│   └── male0001.png    # Example image / avatar / hero image
+└── README.md
+```
+
 ## 🛠️ Tech Stack
 
 | Technology       | Usage                              | Link                                      |
@@ -40,16 +55,6 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 🔗 **[View Live Portfolio →](https://yourusername.github.io/your-repo-name/)**  
   
 
-## 📁 Project Structure
-
-```text
-your-project/
-├── index.html          # Main landing page
-├── style.css           # All styles
-├── script.js           # JavaScript logic & interactions
-├── images/
-│   └── male0001.png    # Example image / avatar / hero image
-└── README.md
 
 <br>
 
