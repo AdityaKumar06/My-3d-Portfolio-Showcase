@@ -54,7 +54,7 @@ my-project/           # Root folder
 
 Made with ❤️ 
 
-**Aditya Kumar** 
+**Aditya Kumar** <br>
 🔗 GitHub: [AdityaKumar06](https://github.com/AdityaKumar06)  
 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0614/)  
 
