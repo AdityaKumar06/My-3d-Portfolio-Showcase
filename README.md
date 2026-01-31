@@ -38,11 +38,7 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 ## 🚀 Live Demo
 
 🔗 **[View Live Portfolio →](https://yourusername.github.io/your-repo-name/)**  
-
-
-## 📂 Project Structure
-
-my-project/ Landing Page        
+  
 
 ## 📁 Project Structure
 
