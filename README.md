@@ -42,13 +42,23 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 ## 📂 Project Structure
 
-my-project/           
-├── index.html       
-├── style.css          
-├── script.js        
-├── images/           
-│   └── ...            
-└── README.md          
+my-project/    Landing Page        
+
+│
+├── index.html
+├── style.css
+├── script.js
+│
+├── assets/
+│   └── images/
+│       ├── male0001.png
+│       ├── male0002.png
+│       ├── male0003.png
+│       ├── male0004.png
+│       ├── male0005.png
+│       └── ... 
+│
+└── README.md
 <br>
 
 
