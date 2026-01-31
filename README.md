@@ -54,10 +54,6 @@ your-project/
 
 ## 🌌 Live Now – Feel the Motion
 
-<p>
-  <big><strong><a href="https://my-3d-portfolio-showcase.vercel.app/" target="_blank">my-3d-portfolio-showcase.vercel.app</a></strong></big>
-</p>
-
 <p >
   <em>GSAP × Locomotive Scroll = buttery 3D scrolling in pure HTML/CSS/JS.<br>
   Scroll-triggered reveals, parallax layers & elegant transforms await.</em>
