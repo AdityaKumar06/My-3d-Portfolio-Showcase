@@ -49,15 +49,16 @@ my-project/           # Root folder
 ├── images/            # Folder for images
 │   └── ...            # Your image files
 └── README.md          # Project description for GitHub
-
-
-⭐ Show some love
-If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
-
 <br>
-<br>
+
 
 Made with ❤️ 
 **Aditya Kumar** ❤️  
 🔗 GitHub: [AdityaKumar06](https://github.com/AdityaKumar06)  
 🔗 LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/adityakumar0614/)  
+
+<br>
+
+⭐ Show some love
+If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
+
