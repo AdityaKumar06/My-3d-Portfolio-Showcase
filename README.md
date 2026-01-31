@@ -42,13 +42,13 @@ Smooth parallax effects, scroll-triggered reveals, 3D transforms, and elegant in
 
 ## 📂 Project Structure
 
-my-project/           # Root folder
-├── index.html         # Main HTML file
-├── style.css          # CSS file in root
-├── script.js          # JavaScript file in root
-├── images/            # Folder for images
-│   └── ...            # Your image files
-└── README.md          # Project description for GitHub
+my-project/           
+├── index.html       
+├── style.css          
+├── script.js        
+├── images/           
+│   └── ...            
+└── README.md          
 <br>
 
 
