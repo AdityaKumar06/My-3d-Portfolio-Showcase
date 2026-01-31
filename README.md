@@ -79,5 +79,5 @@ Made with ❤️
 <br>
 
 ⭐ Show some love
-If you like this project, feel free to ⭐ star the repo or fork it for your own portfolio!
+If you like this project, feel free to ⭐ star the repo.
 
