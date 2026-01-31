@@ -47,7 +47,6 @@ my-project/ Landing Page
 ├── index.html
 ├── style.css
 ├── script.js
-│
 ├── assets/
 │   └── images/
 └── README.md
